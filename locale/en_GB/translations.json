@@ -1315,6 +1315,7 @@
   "Send": "Send",
   "Send a test notification": "Send a test notification",
   "Send all notifications to a single topic": "Send all notifications to a single topic",
+  "Send an email": "Send an email",
   "Send automated notice to new topic": "Send automated notice to new topic",
   "Send automated notice to old topic": "Send automated notice to old topic",
   "Send digest emails when I'm away": "Send digest emails when I'm away",
