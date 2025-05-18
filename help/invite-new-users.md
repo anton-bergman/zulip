@@ -59,6 +59,12 @@ users** menu option if you have permission to invite users.
 
 {end_tabs}
 
+### Example of an invitation email
+
+When inviting new users, Zulip sends an email like the one shown below:
+
+![Sample Zulip Invitation Email](/static/images/help/invite-email-example.png)
+
 !!! warn ""
     **Warning**: When an account is created by accepting an email
     invitation, the user is immediately logged in to their new account.
